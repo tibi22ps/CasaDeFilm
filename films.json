@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "titlu": "Goodfellas",
+    "tip": "ARTISTIC",
+    "an": 1990,
+    "categorie": "DRAMA",
+    "regizor": "Martin Scorsese",
+    "durata": 110
+  },
+  {
+    "id": 2,
+    "titlu": "American Beauty",
+    "tip": "ARTISTIC",
+    "an": 1999,
+    "categorie": "DRAMA",
+    "regizor": "Sam Mendes",
+    "durata": 122
+  },
+  {
+    "id": 3,
+    "titlu": "The Sopranos",
+    "tip": "SERIAL",
+    "an": 1999,
+    "categorie": "DRAMA",
+    "regizor": "David Chase",
+    "durata": 60
+  },
+  {
+    "id": 4,
+    "titlu": "Colectiv",
+    "tip": "ARTISTIC",
+    "an": 2019,
+    "categorie": "DOCUMENTAR",
+    "regizor": "Alexander Nanau",
+    "durata": 109
+  },
+  {
+    "id": 5,
+    "titlu": "True Detective",
+    "tip": "SERIAL",
+    "an": 2014,
+    "categorie": "THRILLER",
+    "regizor": "Cary Fukunaga",
+    "durata": 60
+  },
+  {
+    "id": 6,
+    "titlu": "Isle of Dogs",
+    "tip": "ARTISTIC",
+    "an": 2018,
+    "categorie": "ANIMATIE",
+    "regizor": "Wes Anderson",
+    "durata": 101
+  },
+  {
+    "id": 7,
+    "titlu": "Godfather",
+    "tip": "ARTISTIC",
+    "an": 1972,
+    "categorie": "DRAMA",
+    "regizor": "Francis Copolla",
+    "durata": 175
+  },
+  {
+    "id": 8,
+    "titlu": "Nea Marin Miliardar",
+    "tip": "ARTISTIC",
+    "an": 1979,
+    "categorie": "COMEDIE",
+    "regizor": "Sergiu Nicolaescu",
+    "durata": 88
+  },
+  {
+    "id": 9,
+    "titlu": "Casino",
+    "tip": "ARTISTIC",
+    "an": 1995,
+    "categorie": "THRILLER",
+    "regizor": "Martin Scorsese",
+    "durata": 178
+  }
+]

@@ -1,0 +1,41 @@
+Login.button.loginButton = Conectare
+Login.label.usernameLabel = Utilizator
+Login.label.passwordLabel = Parola
+
+Angajat.label.angajatPageLabel= Angajat
+Angajat.button.sortareTipButton= Sortare Tip
+Angajat.button.sortareAnButton= Sortare An
+Angajat.label.filtrareLabel= Filtrare
+Angajat.label.tipLabel= dupa Tip
+Angajat.label.categorieLabel= dupa Categorie
+Angajat.label.anLabel= dupa An
+Angajat.label.saveLabel= Salvare
+Angajat.button.persistentaFilmeButton= Persistenta Film
+
+AngajatPeristenta.label.angajatPersistentaPageLabel= Persistenta Angajat
+AngajatPeristenta.label.titluLabel= Titlu
+AngajatPeristenta.label.tipLabel= Tip
+AngajatPeristenta.label.anLabel= An
+AngajatPeristenta.label.categorieLabel= Categorie
+AngajatPeristenta.label.regizorLabel= Regizor
+AngajatPeristenta.label.durataLabel= Durata
+AngajatPeristenta.button.addFilmButton= Adauga Film
+AngajatPeristenta.button.updateFilmButton= Actualizare Film
+AngajatPeristenta.button.deleteFilmButton= Sterge Film
+AngajatPeristenta.button.findFilmButton= Gaseste Film
+AngajatPeristenta.label.idTitluLabel= ID/Titlu
+AngajatPeristenta.button.searchTitleButton= Cauta Titlu
+Manager.button.graficeButton= Grafice
+
+Administrator.label.administratorPageLabel= Administrator
+Administrator.button.viewUserListButton= Lista Utilizatori
+Administrator.button.addUserButton= Adauga Utilizator
+Administrator.label.byTipLabel= Filtrare dupa Tip
+Administrator.label.usernameLabel= Nume
+Administrator.label.passwordLabel= Parola
+Administrator.label.tipLabel= Tip
+Administrator.button.searchUserButton= Cauta Utilizator
+Administrator.button.updateUserButton= Actualizare Utilizator
+Administrator.button.deleteUserButton= Sterge Utilizator
+Administrator.label.byUsernameLabel= Cauta Nume
+

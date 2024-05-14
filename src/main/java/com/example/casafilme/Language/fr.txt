@@ -1,0 +1,47 @@
+Login.button.loginButton = Connecter
+Login.label.usernameLabel = Utilisateur
+Login.label.passwordLabel = Passe
+
+
+Angajat.label.angajatPageLabel= Employe
+Angajat.button.sortareTipButton= Sort Taper
+Angajat.button.sortareAnButton= Sort Annee
+Angajat.label.filtrareLabel= Filtre
+Angajat.label.tipLabel= de Taper
+Angajat.label.categorieLabel= de Categorie
+Angajat.label.anLabel= de Anne
+Angajat.label.saveLabel= Salve
+Angajat.button.persistentaFilmeButton= Film Persistance
+
+
+AngajatPeristenta.label.angajatPersistentaPageLabel= Employe Perseverance
+AngajatPeristenta.label.titluLabel= Titre
+AngajatPeristenta.label.tipLabel= Taper
+AngajatPeristenta.label.anLabel= Annee
+AngajatPeristenta.label.categorieLabel= Categorie
+AngajatPeristenta.label.regizorLabel= Directeur
+AngajatPeristenta.label.durataLabel= Temps
+AngajatPeristenta.button.addFilmButton= Ajouter Film
+AngajatPeristenta.button.updateFilmButton= Changer Film
+AngajatPeristenta.button.deleteFilmButton= Clair Film
+AngajatPeristenta.button.findFilmButton= Trouve Film
+AngajatPeristenta.label.idTitluLabel= ID/Title Film
+AngajatPeristenta.button.searchTitleButton= Trouve Title
+Manager.button.graficeButton= Graphiques
+
+Administrator.label.administratorPageLabel= Administrateur
+Administrator.button.viewUserListButton= Liste Utilisateurs
+Administrator.button.addUserButton= Ajouter Utilisateur
+Administrator.label.byTipLabel= Filtrer par Taper
+Administrator.label.usernameLabel= Nom
+Administrator.label.passwordLabel= Passe
+Administrator.label.tipLabel= Taper
+Administrator.button.searchUserButton= Trouver Utilisateur
+Administrator.button.updateUserButton= Changer Utilizateur
+Administrator.button.deleteUserButton= Clair Utilizateur
+Administrator.label.byUsernameLabel= Trouver Nom
+
+
+
+
+

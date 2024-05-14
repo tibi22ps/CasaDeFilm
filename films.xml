@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<films>
+  <film>
+    <id>1</id>
+    <titlu>Goodfellas</titlu>
+    <tip>ARTISTIC</tip>
+    <categorie>DRAMA</categorie>
+    <an>1990</an>
+    <regizor>Martin Scorsese</regizor>
+    <durata>110</durata>
+  </film>
+  <film>
+    <id>2</id>
+    <titlu>American Beauty</titlu>
+    <tip>ARTISTIC</tip>
+    <categorie>DRAMA</categorie>
+    <an>1999</an>
+    <regizor>Sam Mendes</regizor>
+    <durata>122</durata>
+  </film>
+  <film>
+    <id>3</id>
+    <titlu>The Sopranos</titlu>
+    <tip>SERIAL</tip>
+    <categorie>DRAMA</categorie>
+    <an>1999</an>
+    <regizor>David Chase</regizor>
+    <durata>60</durata>
+  </film>
+  <film>
+    <id>4</id>
+    <titlu>Colectiv</titlu>
+    <tip>ARTISTIC</tip>
+    <categorie>DOCUMENTAR</categorie>
+    <an>2019</an>
+    <regizor>Alexander Nanau</regizor>
+    <durata>109</durata>
+  </film>
+  <film>
+    <id>5</id>
+    <titlu>True Detective</titlu>
+    <tip>SERIAL</tip>
+    <categorie>THRILLER</categorie>
+    <an>2014</an>
+    <regizor>Cary Fukunaga</regizor>
+    <durata>60</durata>
+  </film>
+  <film>
+    <id>6</id>
+    <titlu>Isle of Dogs</titlu>
+    <tip>ARTISTIC</tip>
+    <categorie>ANIMATIE</categorie>
+    <an>2018</an>
+    <regizor>Wes Anderson</regizor>
+    <durata>101</durata>
+  </film>
+  <film>
+    <id>7</id>
+    <titlu>Godfather</titlu>
+    <tip>ARTISTIC</tip>
+    <categorie>DRAMA</categorie>
+    <an>1972</an>
+    <regizor>Francis Copolla</regizor>
+    <durata>175</durata>
+  </film>
+  <film>
+    <id>8</id>
+    <titlu>Nea Marin Miliardar</titlu>
+    <tip>ARTISTIC</tip>
+    <categorie>COMEDIE</categorie>
+    <an>1979</an>
+    <regizor>Sergiu Nicolaescu</regizor>
+    <durata>88</durata>
+  </film>
+  <film>
+    <id>9</id>
+    <titlu>Casino</titlu>
+    <tip>ARTISTIC</tip>
+    <categorie>THRILLER</categorie>
+    <an>1995</an>
+    <regizor>Martin Scorsese</regizor>
+    <durata>178</durata>
+  </film>
+</films>

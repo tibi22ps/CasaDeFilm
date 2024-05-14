@@ -1,0 +1,43 @@
+Login.button.loginButton = Login
+Login.label.usernameLabel = Username
+Login.label.passwordLabel = Password
+
+Angajat.label.angajatPageLabel= Employee
+Angajat.button.sortareTipButton= Sort Type
+Angajat.button.sortareAnButton= Sort Year
+Angajat.label.filtrareLabel= Filter
+Angajat.label.tipLabel= by Type
+Angajat.label.categorieLabel= by Category
+Angajat.label.anLabel= by Year
+Angajat.label.saveLabel= Save
+Angajat.button.persistentaFilmeButton= Film Persistency
+
+AngajatPeristenta.label.angajatPersistentaPageLabel= Employee Persistency
+AngajatPeristenta.label.titluLabel= Title
+AngajatPeristenta.label.tipLabel= Type
+AngajatPeristenta.label.anLabel= Year
+AngajatPeristenta.label.categorieLabel= Category
+AngajatPeristenta.label.regizorLabel= Director
+AngajatPeristenta.label.durataLabel= Duration
+AngajatPeristenta.button.addFilmButton= Add Film
+AngajatPeristenta.button.updateFilmButton= Update Film
+AngajatPeristenta.button.deleteFilmButton= Delete Film
+AngajatPeristenta.button.findFilmButton= Find Film
+AngajatPeristenta.label.idTitluLabel= ID/Title
+AngajatPeristenta.button.searchTitleButton= Search Title
+Manager.button.graficeButton= Graphics
+
+Administrator.label.administratorPageLabel= Administrator
+Administrator.button.viewUserListButton= Users List
+Administrator.button.addUserButton= Add User
+Administrator.label.byTipLabel= Filter by Type
+Administrator.label.usernameLabel= Username
+Administrator.label.passwordLabel= Password
+Administrator.label.tipLabel= Type
+Administrator.button.searchUserButton= Find User
+Administrator.button.updateUserButton= Update User
+Administrator.button.deleteUserButton= Delete User
+Administrator.label.byUsernameLabel= Search Username
+
+
+
